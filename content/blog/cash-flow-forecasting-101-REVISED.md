@@ -271,7 +271,7 @@ You don't need fancy software. A spreadsheet works fine.
 
 **Best for:** Larger businesses or those with complex cash flow
 
-### Option 4: Work with Your EA or Fractional CFO
+### Option 4: Work with a Fractional CFO
 
 **Pros:** Expert guidance, customized to your business, accountability  
 **Cons:** Costs money (but ROI is usually positive)
