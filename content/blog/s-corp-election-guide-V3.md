@@ -565,7 +565,7 @@ Here's what happens when you work with Benefique:
 
 **→ [Book Your S-Corp Analysis Call](https://www.benefique.com/apply)** (30 min, we'll run your actual numbers and give you a straight answer)
 
-Or email gerrit@benefique.com if you have specific questions.
+Or email hello@benefique.com if you have specific questions.
 
 ---
 
@@ -617,7 +617,7 @@ S-Corp election is a powerful tool for the right business at the right profit le
 
 That's what we do at Benefique.
 
-📧 **Email:** gerrit@benefique.com  
+📧 **Email:** hello@benefique.com  
 🔗 **Apply:** [www.benefique.com/apply](https://www.benefique.com/apply)  
 📞 **Schedule:** [30-minute S-Corp analysis call](#)
 

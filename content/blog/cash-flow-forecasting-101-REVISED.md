@@ -2,8 +2,8 @@
 title: "Cash Flow Forecasting 101: A Practical Guide for Business Owners"
 date: "2026-01-30"
 author: "Gerrit Disbergen, EA"
-excerpt: "Learn cash flow forecasting for your small business with this practical guide. Get step-by-step instructions, free templates, and expert tips from a South Florida EA to predict and manage your cash flow."
-description: "Learn cash flow forecasting for your small business with this practical guide. Get step-by-step instructions, free templates, and expert tips from a South Florida EA to predict and manage your cash flow."
+excerpt: "Learn cash flow forecasting for your small business with this practical guide. Get step-by-step instructions, free templates, and expert CFO guidance to predict and manage your cash flow."
+description: "Learn cash flow forecasting for your small business with this practical guide. Get step-by-step instructions, free templates, and expert CFO guidance to predict and manage your cash flow."
 categories: ["Cash Flow", "Financial Management", "Planning"]
 featured: true
 focus_keyword: "cash flow forecasting"
@@ -14,7 +14,7 @@ location: "South Florida, Florida"
 
 "We're profitable on paper, but we can't make payroll."
 
-As an EA working with South Florida business owners, I hear this more often than you'd think. Profitable businesses with serious cash problems.
+Working with South Florida business owners through our fractional CFO services, I hear this more often than you'd think. Profitable businesses with serious cash problems.
 
 The issue isn't revenue. It's not even profit. It's **cash flow**—and specifically, the inability to predict it.
 
@@ -255,7 +255,7 @@ You don't need fancy software. A spreadsheet works fine.
 
 **Best for:** Small businesses, simple cash flow
 
-**Want our template?** We've built a plug-and-play 13-week cash flow forecast specifically for service businesses. [Download it free here](#) or email gerrit@benefique.com with "TEMPLATE" in the subject line.
+**Want our template?** We've built a plug-and-play 13-week cash flow forecast specifically for service businesses. [Download it free here](#) or email hello@benefique.com with "TEMPLATE" in the subject line.
 
 ### Option 2: QuickBooks Cash Flow Planner (Included with QBO)
 
@@ -423,7 +423,7 @@ If that's you, we get it. That's exactly why our [fractional CFO service](#) exi
 **Cost:** Included in our fractional CFO packages starting at $1,500/month.  
 **ROI:** Typical client avoids $5K-$15K annually in interest, overdraft fees, and rushed decisions.
 
-**Next step:** [Tell us about your business](#) (2-minute form) or email gerrit@benefique.com to schedule a 20-minute fit call.
+**Next step:** [Tell us about your business](#) (2-minute form) or email hello@benefique.com to schedule a 20-minute fit call.
 
 ---
 
@@ -463,7 +463,7 @@ Track both.
 
 That's what we do at Benefique.
 
-📧 **Email:** gerrit@benefique.com  
+📧 **Email:** hello@benefique.com  
 🔗 **Apply:** [www.benefique.com/apply](https://www.benefique.com/apply)  
 📞 **Call:** Schedule a [20-minute cash flow consultation](#)
 
