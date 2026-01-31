@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 
   try {
-    const filePath = path.join(process.cwd(), 'content/blog', post.file)
+    const filePath = path.join(process.cwd(), 'public/content/blog', post.file)
     const fileContents = fs.readFileSync(filePath, 'utf8')
     const { data } = matter(fileContents)
 
@@ -70,12 +70,13 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   let content: string
 
   try {
-    const filePath = path.join(process.cwd(), 'content/blog', post.file)
+    const filePath = path.join(process.cwd(), 'public/content/blog', post.file)
     const fileContents = fs.readFileSync(filePath, 'utf8')
     const parsed = matter(fileContents)
     data = parsed.data
     content = parsed.content
   } catch (error) {
+    console.error('Error reading blog post:', error)
     notFound()
   }
 
